@@ -1,4 +1,5 @@
 from naive import naive
+from russian import russian
 
 
-print(naive(4,4))
+print(russian(4,4))
